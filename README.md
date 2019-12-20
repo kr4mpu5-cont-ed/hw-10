@@ -17,9 +17,9 @@ The application will prompt the user for information about the team manager and 
 
 ## Minimum Requirements
 * [ ] Functional application
-* [ ] GitHub repository with a unique name and decriptive README
-* [ ] Dependencies: Inquirer, Jest
-* [ ] The app runs as Node CLI
+* [x] GitHub repository with a unique name and decriptive README
+* [x] Dependencies: Inquirer, Jest
+* [x] The app runs as Node CLI
 * [ ] User runs CLI to generate an HTML page that displays information about their team
 * [ ] Uniquely styled HTML output
 * [ ] Use validation to ensure that the information provided is in the proper expected format

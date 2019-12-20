@@ -27,7 +27,7 @@ The application will prompt the user for information about the team manager and 
 * [ ] All unit tests pass
 
 ## Submission on BCS
-* [ ] The URL of the GitHub repository
+* [x] The URL of the GitHub repository
 * [ ] **Optional**: GIF of your CLI application's functionality
 
 ## Suggested workflow:
